@@ -32,7 +32,7 @@ This is a simple yet engaging Rock, Paper, Scissors game built using Python and 
 ## How to Clone
 To clone this repository, use the following command:
 ```
-git clone https://github.com/yourusername/rock-paper-scissors.git
+git clone https://github.com/RaunitPathrabe16/UnizzTech-Task3-Rock-Paper-Scissors-Game.git
 ```
 Then navigate into the directory:
 ```
@@ -49,10 +49,16 @@ Execute the script using:
 python rock_paper_scissors.py
 ```
 
-## Demo Video & Screenshot
-![Game Screenshot](path/to/screenshot.png)
+## Demo Video 
+https://github.com/user-attachments/assets/915195cb-6114-4149-8965-f042892bcf35
 
-[Watch Demo Video](path/to/demo-video.mp4)
+##Screenshot
+![Screenshot1](https://github.com/user-attachments/assets/2412c2e1-234b-4120-8f08-ab24467c9639)
+![Screenshot2](https://github.com/user-attachments/assets/2df2fe4e-bbda-4767-af11-88795e5b37e3)
+![Screenshot3](https://github.com/user-attachments/assets/ea187555-f5fe-472e-8c4c-6cd3d8a27470)
+
+
+
 
 ## License
 This project is open-source and free to use.
